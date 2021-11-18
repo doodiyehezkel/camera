@@ -13,25 +13,25 @@ const Photos: FC = () => {
               <img src="./images/about-home.jpg" alt="" />
             </div> */}
             <div className={`${classes.image_container} ${classes.fade}`} >
-               <img src={process.env.PUBLIC_URL + '/images/about-home.jpg'} alt="" />
+               <img src="https://sn-systems.co.il/wp-content/uploads/2018/12/about-home.jpg" alt="" />
             </div>
             <div className={`${classes.image_container} ${classes.fade}`} >
-               <img src={process.env.PUBLIC_URL + '/images/about-home.jpg'} alt="" />
+               <img src="https://sn-systems.co.il/wp-content/uploads/2018/12/about-home.jpg" alt="" />
             </div>
             <div className={`${classes.image_container} ${classes.fade}`} >
-               <img src={process.env.PUBLIC_URL + '/images/about-home.jpg'} alt="" />
+               <img src="https://sn-systems.co.il/wp-content/uploads/2018/12/about-home.jpg" alt="" />
             </div>
             <div className={`${classes.image_container} ${classes.fade}`} >
-               <img src={process.env.PUBLIC_URL + '/images/about-home.jpg'} alt="" />
+               <img src="https://sn-systems.co.il/wp-content/uploads/2018/12/about-home.jpg" alt="" />
             </div>
             <div className={`${classes.image_container} ${classes.fade}`} >
-               <img src={process.env.PUBLIC_URL + '/images/about-home.jpg'} alt="" />
+               <img src="https://sn-systems.co.il/wp-content/uploads/2018/12/about-home.jpg" alt="" />
             </div>
             <div className={`${classes.image_container} ${classes.fade}`} >
-               <img src={process.env.PUBLIC_URL + '/images/about-home.jpg'} alt="" />
+               <img src="https://sn-systems.co.il/wp-content/uploads/2018/12/about-home.jpg" alt="" />
             </div>
             <div className={`${classes.image_container} ${classes.fade}`} >
-               <img src={process.env.PUBLIC_URL + '/images/about-home.jpg'} alt="" />
+               <img src="https://sn-systems.co.il/wp-content/uploads/2018/12/about-home.jpg" alt="" />
             </div>
         </div>
 
