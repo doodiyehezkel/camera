@@ -1,0 +1,17 @@
+
+*{
+    font-family: Helvetica;
+}
+
+html,body{
+    margin: 0;
+    padding: 0;
+}
+
+/* .title{
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
