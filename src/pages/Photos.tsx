@@ -1,6 +1,7 @@
 import { FC } from "react";
 import classes from './Photos.module.css'
 
+
 const Photos: FC = () => {
 
     return (
@@ -12,25 +13,25 @@ const Photos: FC = () => {
               <img src="./images/about-home.jpg" alt="" />
             </div> */}
             <div className={`${classes.image_container} ${classes.fade}`} >
-               <img src="./images/about-home.jpg" alt="" />
+               <img src={process.env.PUBLIC_URL + '/images/about-home.jpg'} alt="" />
             </div>
             <div className={`${classes.image_container} ${classes.fade}`} >
-               <img src="./images/about-home.jpg" alt="" />
+               <img src={process.env.PUBLIC_URL + '/images/about-home.jpg'} alt="" />
             </div>
             <div className={`${classes.image_container} ${classes.fade}`} >
-               <img src="./images/about-home.jpg" alt="" />
+               <img src={process.env.PUBLIC_URL + '/images/about-home.jpg'} alt="" />
             </div>
             <div className={`${classes.image_container} ${classes.fade}`} >
-               <img src="./images/about-home.jpg" alt="" />
+               <img src={process.env.PUBLIC_URL + '/images/about-home.jpg'} alt="" />
             </div>
             <div className={`${classes.image_container} ${classes.fade}`} >
-               <img src="./images/about-home.jpg" alt="" />
+               <img src={process.env.PUBLIC_URL + '/images/about-home.jpg'} alt="" />
             </div>
             <div className={`${classes.image_container} ${classes.fade}`} >
-               <img src="./images/about-home.jpg" alt="" />
+               <img src={process.env.PUBLIC_URL + '/images/about-home.jpg'} alt="" />
             </div>
             <div className={`${classes.image_container} ${classes.fade}`} >
-               <img src="./images/about-home.jpg" alt="" />
+               <img src={process.env.PUBLIC_URL + '/images/about-home.jpg'} alt="" />
             </div>
         </div>
 
